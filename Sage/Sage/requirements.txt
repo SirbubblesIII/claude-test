@@ -1,0 +1,6 @@
+# Sage-Conformant Intelligence: Structured Reasoning Module
+# Python 3.8+
+
+# Core dependencies (currently none - pure Python standard library)
+# Add external dependencies here as needed
+
